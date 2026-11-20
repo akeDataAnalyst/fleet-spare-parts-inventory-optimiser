@@ -1,5 +1,5 @@
 # **Fleet Spare-Parts Inventory Replenishment & Safety Stock Optimiser**
-
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://fleet-spare-parts-inventory-optimiser-6ygraxrs9syrvbocy6xovy.streamlit.app/)
 ## Description
 An operational inventory control and safety stock optimisation platform built in Python and Streamlit. Designed for fleet and logistics supply chains in the UAE (with AED valuation, UAE regional hubs, and 2025 operational snapshots), the system evaluates physical stock, incoming purchase orders, reserved allocations, and unserviceable repairable cores to prevent stock-outs, reduce vehicle downtime, and free up excess working capital.
 
