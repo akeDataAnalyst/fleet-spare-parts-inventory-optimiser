@@ -1,0 +1,29 @@
+snapshot_date,part_number,part_name,category,vehicle_type,hub_location,supplier,on_hand_qty,due_in_qty,expected_receipt_date,po_status,reserved_qty,unserviceable_qty,avg_monthly_demand,demand_std_dev,lead_time_days,unit_cost_aed,criticality,last_issue_date,months_since_last_issue
+2025-12-15,PRT-001,Heavy-Duty Engine Oil Filter,Filters & Fluids,Heavy Truck,Jebel Ali Hub,Al-Futtaim Auto Parts UAE,46,0,N/A,No Open PO,4,1,48.0,9.5,14,95.0,High,2025-12-15,0
+2025-12-15,PRT-002,Primary Fuel Water Separator,Filters & Fluids,Heavy Truck,Jebel Ali Hub,Emirates Fleet Supply,6,17,2025-12-15,In Transit,6,1,34.0,8.2,18,165.0,High,2025-12-15,0
+2025-12-15,PRT-003,Cabin Air Filter Element,Filters & Fluids,Light Commercial Van,Sajaa Hub,Gulf Auto Components,25,0,N/A,No Open PO,3,1,42.0,7.0,10,55.0,Low,2025-12-15,0
+2025-12-15,PRT-004,Heavy-Duty Air Intake Filter,Filters & Fluids,Medium Truck,Mussafah Hub,Al-Futtaim Auto Parts UAE,18,0,N/A,No Open PO,2,0,26.0,6.4,15,210.0,Medium,2025-12-15,0
+2025-12-15,PRT-005,Front Disc Brake Pad Set,Braking System,Heavy Truck,Jebel Ali Hub,Arabian Brake & Axle Co.,6,15,2025-12-26,In Transit,6,1,30.0,7.5,21,480.0,High,2025-12-15,0
+2025-12-15,PRT-006,Rear Brake Shoe & Lining Kit,Braking System,Medium Truck,Mussafah Hub,Arabian Brake & Axle Co.,27,0,N/A,No Open PO,3,1,22.0,6.8,21,390.0,High,2025-12-15,0
+2025-12-15,PRT-007,ABS Wheel Speed Sensor,Braking System,Coach / Bus,Jebel Ali Hub,Bosch Middle East FZE,6,0,N/A,No Open PO,2,0,11.0,4.9,25,320.0,High,2025-12-15,0
+2025-12-15,PRT-008,Air Brake Chamber Assembly,Braking System,Heavy Truck,Mussafah Hub,Arabian Brake & Axle Co.,10,0,N/A,No Open PO,1,1,9.0,4.6,28,640.0,High,2025-12-15,0
+2025-12-15,PRT-009,A/C Compressor Assembly (Heavy),Cooling & HVAC,Heavy Truck,Jebel Ali Hub,Denso Thermal UAE,3,0,N/A,No Open PO,2,1,8.5,5.8,35,1850.0,High,2025-12-15,0
+2025-12-15,PRT-010,Radiator Core Assembly,Cooling & HVAC,Coach / Bus,Mussafah Hub,Denso Thermal UAE,5,0,N/A,No Open PO,1,0,5.5,4.2,40,2200.0,High,2025-12-15,0
+2025-12-15,PRT-011,Thermostat & Housing Kit,Cooling & HVAC,Light Commercial Van,Sajaa Hub,Gulf Auto Components,162,0,N/A,No Open PO,1,0,19.0,5.1,14,145.0,Medium,2025-09-15,3
+2025-12-15,PRT-012,Viscous Fan Clutch,Cooling & HVAC,Medium Truck,Jebel Ali Hub,Denso Thermal UAE,11,0,N/A,No Open PO,1,1,7.0,4.4,24,780.0,Medium,2025-12-15,0
+2025-12-15,PRT-013,24V Heavy-Duty AGM Battery,Electrical & Ignition,Heavy Truck,Jebel Ali Hub,Emirates Battery Corp,9,0,N/A,No Open PO,3,1,24.0,6.2,14,890.0,High,2025-12-15,0
+2025-12-15,PRT-014,Heavy-Duty Alternator (150A),Electrical & Ignition,Coach / Bus,Mussafah Hub,Bosch Middle East FZE,10,0,N/A,No Open PO,0,0,6.0,4.5,30,1650.0,High,2025-12-15,0
+2025-12-15,PRT-015,Starter Motor Assembly,Electrical & Ignition,Medium Truck,Sajaa Hub,Bosch Middle East FZE,8,0,N/A,No Open PO,1,1,6.5,4.8,28,1280.0,High,2025-12-15,0
+2025-12-15,PRT-016,LED Headlamp Assembly,Electrical & Ignition,Light Commercial Van,Sajaa Hub,Gulf Auto Components,98,0,N/A,No Open PO,1,0,12.0,5.5,16,430.0,Low,2025-11-15,1
+2025-12-15,PRT-017,Steer Axle Radial Tyre (315/80R22.5),Tyres & Suspension,Heavy Truck,Jebel Ali Hub,Bridgestone MEA,37,0,N/A,No Open PO,2,0,28.0,7.1,20,1420.0,High,2025-12-15,0
+2025-12-15,PRT-018,Drive Axle Radial Tyre (315/80R22.5),Tyres & Suspension,Heavy Truck,Mussafah Hub,Bridgestone MEA,11,0,N/A,No Open PO,8,1,36.0,8.9,20,1480.0,High,2025-12-15,0
+2025-12-15,PRT-019,Air Suspension Spring Bellow,Tyres & Suspension,Coach / Bus,Jebel Ali Hub,Arabian Brake & Axle Co.,63,0,N/A,No Open PO,0,0,9.5,5.6,26,560.0,Medium,2025-11-15,1
+2025-12-15,PRT-020,Heavy-Duty Shock Absorber,Tyres & Suspension,Medium Truck,Sajaa Hub,Arabian Brake & Axle Co.,16,9,2025-12-08,Overdue,2,0,15.0,5.2,18,340.0,Medium,2025-12-15,0
+2025-12-15,PRT-021,Clutch Pressure Plate & Disc Kit,Drivetrain & Transmission,Medium Truck,Mussafah Hub,ZF Middle East,4,0,N/A,No Open PO,1,1,5.0,4.1,35,1950.0,High,2025-12-15,0
+2025-12-15,PRT-022,Propshaft Universal Joint Kit,Drivetrain & Transmission,Heavy Truck,Jebel Ali Hub,ZF Middle East,12,0,N/A,No Open PO,1,0,8.0,4.9,22,410.0,Medium,2025-12-15,0
+2025-12-15,PRT-023,Transmission Oil Cooler,Drivetrain & Transmission,Coach / Bus,Mussafah Hub,ZF Middle East,22,0,N/A,No Open PO,0,0,3.2,3.6,38,1540.0,High,2025-11-15,1
+2025-12-15,PRT-024,Differential Pinion Seal Kit,Drivetrain & Transmission,Light Commercial Van,Sajaa Hub,Gulf Auto Components,100,0,N/A,No Open PO,0,1,10.0,4.2,14,125.0,Low,2025-04-15,8
+2025-12-15,PRT-025,Turbocharger Actuator Valve,Engine Components,Heavy Truck,Jebel Ali Hub,Al-Futtaim Auto Parts UAE,1,1,2025-12-30,In Transit,1,0,2.8,3.4,42,2450.0,High,2025-12-15,0
+2025-12-15,PRT-026,EGR Valve Assembly,Engine Components,Medium Truck,Mussafah Hub,Bosch Middle East FZE,41,0,N/A,No Open PO,0,1,4.5,4.0,30,1120.0,Medium,2025-05-15,7
+2025-12-15,PRT-027,Serpentine Drive Belt,Engine Components,Light Commercial Van,Sajaa Hub,Emirates Fleet Supply,17,15,2025-12-15,In Transit,2,0,25.0,5.4,12,115.0,Medium,2025-12-15,0
+2025-12-15,PRT-028,Side Mirror Housing Assembly,Body & Cabin,Light Commercial Van,Sajaa Hub,Gulf Auto Components,38,0,N/A,No Open PO,0,2,4.0,3.9,15,290.0,Low,2025-10-15,2

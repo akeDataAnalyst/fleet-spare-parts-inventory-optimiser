@@ -1,0 +1,6 @@
+po_number,part_number,part_name,supplier,hub_location,order_date,expected_receipt_date,due_in_qty,po_value_aed,lead_time_days,days_overdue,po_status
+PO-2025-2501,PRT-002,Primary Fuel Water Separator,Emirates Fleet Supply,Jebel Ali Hub,2025-11-27,2025-12-15,17,2805.0,18,0,In Transit
+PO-2025-2502,PRT-005,Front Disc Brake Pad Set,Arabian Brake & Axle Co.,Jebel Ali Hub,2025-12-05,2025-12-26,15,7200.0,21,0,In Transit
+PO-2025-2503,PRT-020,Heavy-Duty Shock Absorber,Arabian Brake & Axle Co.,Sajaa Hub,2025-11-20,2025-12-08,9,3060.0,18,7,Overdue
+PO-2025-2504,PRT-025,Turbocharger Actuator Valve,Al-Futtaim Auto Parts UAE,Jebel Ali Hub,2025-11-25,2025-12-30,1,2450.0,42,0,In Transit
+PO-2025-2505,PRT-027,Serpentine Drive Belt,Emirates Fleet Supply,Sajaa Hub,2025-12-03,2025-12-15,15,1725.0,12,0,In Transit

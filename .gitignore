@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual environments & Conda
+.venv/
+venv/
+ENV/
+env/
+conda-meta/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook checkpoints & runtime state
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Streamlit local config & cache
+.streamlit/secrets.toml

@@ -1,0 +1,16 @@
+work_order_id,vehicle_id,vehicle_type,hub_location,part_number,part_name,criticality,wo_opened_date,snapshot_date,days_delayed,downtime_hours_accumulated,qty_required,delay_reason
+WO-2025-8401,DXB-H-4088,Heavy Truck,Jebel Ali Hub,PRT-002,Primary Fuel Water Separator,High,2025-12-10,2025-12-15,5,42.5,3,Awaiting Spare Part Stock Replenishment
+WO-2025-8402,DXB-H-4012,Heavy Truck,Jebel Ali Hub,PRT-005,Front Disc Brake Pad Set,High,2025-12-03,2025-12-15,12,102.0,1,Awaiting Spare Part Stock Replenishment
+WO-2025-8403,AUH-H-7120,Heavy Truck,Jebel Ali Hub,PRT-005,Front Disc Brake Pad Set,High,2025-12-02,2025-12-15,13,110.5,2,Awaiting Spare Part Stock Replenishment
+WO-2025-8404,AUH-H-7120,Heavy Truck,Jebel Ali Hub,PRT-005,Front Disc Brake Pad Set,High,2025-12-10,2025-12-15,5,42.5,1,Awaiting Spare Part Stock Replenishment
+WO-2025-8405,DXB-B-9015,Coach / Bus,Jebel Ali Hub,PRT-007,ABS Wheel Speed Sensor,High,2025-12-01,2025-12-15,14,119.0,1,Awaiting Spare Part Stock Replenishment
+WO-2025-8406,AUH-H-7120,Heavy Truck,Jebel Ali Hub,PRT-009,A/C Compressor Assembly (Heavy),High,2025-12-11,2025-12-15,4,34.0,3,Awaiting Spare Part Stock Replenishment
+WO-2025-8407,DXB-H-4012,Heavy Truck,Jebel Ali Hub,PRT-009,A/C Compressor Assembly (Heavy),High,2025-12-02,2025-12-15,13,110.5,2,Awaiting Spare Part Stock Replenishment
+WO-2025-8408,DXB-B-9015,Coach / Bus,Mussafah Hub,PRT-010,Radiator Core Assembly,High,2025-12-07,2025-12-15,8,68.0,3,Awaiting Spare Part Stock Replenishment
+WO-2025-8409,DXB-B-9015,Coach / Bus,Mussafah Hub,PRT-010,Radiator Core Assembly,High,2025-12-03,2025-12-15,12,102.0,2,Awaiting Spare Part Stock Replenishment
+WO-2025-8410,DXB-H-4088,Heavy Truck,Jebel Ali Hub,PRT-013,24V Heavy-Duty AGM Battery,High,2025-12-07,2025-12-15,8,68.0,1,Awaiting Spare Part Stock Replenishment
+WO-2025-8411,DXB-H-4088,Heavy Truck,Jebel Ali Hub,PRT-013,24V Heavy-Duty AGM Battery,High,2025-12-12,2025-12-15,3,25.5,2,Awaiting Spare Part Stock Replenishment
+WO-2025-8412,DXB-H-4012,Heavy Truck,Jebel Ali Hub,PRT-013,24V Heavy-Duty AGM Battery,High,2025-12-04,2025-12-15,11,93.5,2,Awaiting Spare Part Stock Replenishment
+WO-2025-8413,AUH-H-7120,Heavy Truck,Mussafah Hub,PRT-018,Drive Axle Radial Tyre (315/80R22.5),High,2025-12-08,2025-12-15,7,59.5,3,Awaiting Spare Part Stock Replenishment
+WO-2025-8414,SHJ-M-2219,Medium Truck,Mussafah Hub,PRT-021,Clutch Pressure Plate & Disc Kit,High,2025-12-07,2025-12-15,8,68.0,1,Awaiting Spare Part Stock Replenishment
+WO-2025-8415,DXB-H-4088,Heavy Truck,Jebel Ali Hub,PRT-025,Turbocharger Actuator Valve,High,2025-12-11,2025-12-15,4,34.0,3,Awaiting Spare Part Stock Replenishment
